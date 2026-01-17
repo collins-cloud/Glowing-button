@@ -16,6 +16,7 @@ Beginner-friendly code structure
 HTML5
 
 CSS3 (animations, box-shadow, transitions)
+# Preview 
 
 # License
 
